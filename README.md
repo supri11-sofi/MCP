@@ -39,6 +39,8 @@ To run the server normally:
 
 
 uv run mcp run
+
+
 To install the server in Claude desktop app:
 
 uv run mcp install main.py
